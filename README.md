@@ -22,4 +22,5 @@ As bases de dados foram retiradas do site kaggle: https://www.kaggle.com/allanbr
 O modelo de previsão de preços para aluguel de imóveis foi desenvolvido para auxiliar proprietários e locadores na determinação de valores adequados para a diária de aluguel de suas propriedades. Ele opera com base em um conjunto de dados históricos e características específicas de cada imóvel
 
 ## Como usar
-Para executar o script, abra o arquivo Pesquisa_passagem.py em seu editor de código Python e execute-o.
+Para executar o script, abra o arquivo AirbnbRio.py em seu editor de código Python e execute-o.
+Lembre-se de ter baixado a base de dados e salva-la no mesmo diretório de execução do script
